@@ -65,5 +65,5 @@ We are grateful to all the external material providers and websites that have he
 
 
 <p align="center">
-  <img src="https://github.com/bsoc-bitbyte/Summer-of-ML-2026/blob/main/logo.png" alt="SOM Logo" />
+  <img src="https://github.com/bsoc-bitbyte/Summer-of-ML-26/blob/main/logo.png" alt="SOM Logo" />
 </p>
